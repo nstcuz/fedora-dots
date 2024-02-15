@@ -1,0 +1,24 @@
+2024-02-15T01:00:17.121Z 0: 
+
+----------------------------------------------
+2024-02-15T01:00:17.136Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.42"}, modulepath: /home/nic/.config/discord/0.0.42/modules
+2024-02-15T01:00:17.143Z 2: ✅ webContents.created web1 ""
+2024-02-15T01:00:17.152Z 3: ✅ window.created win1 "discord"
+2024-02-15T01:00:17.385Z 4: ✅ webContents.did-finish-load web1
+2024-02-15T01:00:23.584Z 5: before-quit
+2024-02-15T01:00:58.845Z 0: 
+
+----------------------------------------------
+2024-02-15T01:00:58.869Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.42"}, modulepath: /home/nic/.config/discord/0.0.42/modules
+2024-02-15T01:00:58.876Z 2: ✅ webContents.created web1 ""
+2024-02-15T01:00:58.881Z 3: ✅ window.created win1 "discord"
+2024-02-15T01:00:59.108Z 4: ✅ webContents.did-finish-load web1
+2024-02-15T01:01:03.463Z 5: before-quit
+2024-02-15T01:01:44.596Z 0: 
+
+----------------------------------------------
+2024-02-15T01:01:44.620Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.42"}, modulepath: /home/nic/.config/discord/0.0.42/modules
+2024-02-15T01:01:44.627Z 2: ✅ webContents.created web1 ""
+2024-02-15T01:01:44.634Z 3: ✅ window.created win1 "discord"
+2024-02-15T01:01:44.855Z 4: ✅ webContents.did-finish-load web1
+2024-02-15T01:01:49.733Z 5: before-quit
